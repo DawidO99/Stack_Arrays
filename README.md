@@ -1,1 +1,2 @@
-# projekt_04_stack_array
+# Stack on Arrays
+Simple stack implementation on arrays in C language
